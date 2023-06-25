@@ -1,5 +1,0 @@
-a = input()
-b = input()
-for g in range(11):
-    print(a)
-    print(b)
