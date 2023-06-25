@@ -1,4 +1,5 @@
 # پایتون برای ایلیا
 این ریپازیتوری، آموزش گام به گام پایتون برای ایلیاست.
 
-![belt](https://github.com/mfathi91/python-for-iliya/assets/29010410/cffcbe75-0e8a-4c50-8feb-99c58de49ce4)
+
+![2023-06-25_09-36](https://github.com/mfathi91/python-for-iliya/assets/29010410/ea8ac98f-976a-44d4-a336-af9b6716e7d8)
