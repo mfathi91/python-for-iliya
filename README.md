@@ -2,4 +2,4 @@
 این ریپازیتوری، آموزش گام به گام پایتون برای ایلیاست.
 
 
-![2023-06-25_13-58](https://github.com/mfathi91/python-for-iliya/assets/29010410/51af814c-977d-4817-a3cb-0033dcb5a90a)
+![iliya](https://github.com/mfathi91/python-for-iliya/assets/29010410/ba4fafa5-d2d9-436d-a444-8095dbf86df6)
