@@ -32,3 +32,6 @@ My favorite color is green and my favorite ftuit is banana.
 ```
 4
 ```
+
+راهنمایی: از فانکشن count میتوانید استفاده کنید:
+count(...)
