@@ -22,7 +22,7 @@
 83: is odd
 ```
 
-تمرین ۲
+### تمرین ۲
 یک برنامه بنویسید که محتویات فایل زیر را بخواند و به ما بگوید کلا چند بار حرف m در این تکست آمده است:
 ```
 Hello, I am Iliya and I am learning Python. I try to do the exercises everyday.
