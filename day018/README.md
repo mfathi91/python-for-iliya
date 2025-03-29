@@ -19,3 +19,4 @@ Enter number 4: 0
 Enter number 5: 2
 Average of the numbers is: 3
 ```
+راهنمایی: از list استفاده کنید.
